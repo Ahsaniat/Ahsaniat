@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=ICP+Blockchain;Decentralized+Backend;Neuromorphic+Computing" alt="Typing SVG" />
 
 </div>
-
+---
 
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif">
